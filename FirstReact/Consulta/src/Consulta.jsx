@@ -8,7 +8,7 @@ import './App.css'
 import axios from 'axios'
 import TextField from '@mui/material/TextField';
 import Autocomplete from '@mui/material/Autocomplete';
-import Tabela from 'Tabela.jsx'
+import Tabela from './Tabela.jsx';
 
 
 
